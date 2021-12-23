@@ -39,7 +39,7 @@ rm -f ~/.local/share/nautilus-python/extensions/pycharm-nautilus.py
 
 # Download and install the extension
 echo "Baixando nova versão..."
-wget --show-progress -q -O ~/.local/share/nautilus-python/extensions/code-nautilus.py https://raw.githubusercontent.com/siddarta-weis/pycharm_nautilus/master/pycharm-nautilus.py
+wget --show-progress -q -O ~/.local/share/nautilus-python/extensions/pycharm-nautilus.py https://raw.githubusercontent.com/siddarta-weis/pycharm_nautilus/master/pycharm-nautilus.py
 
 # Restart nautilus
 echo "Reiniciando o nautilus..."
