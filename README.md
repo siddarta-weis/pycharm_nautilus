@@ -7,7 +7,7 @@ Este repositorio é uma extenção do Pycharm para o Nautilus em pt_BR.
 ## Instalar extenção
 
 ```sh
-wget -qO- https://raw.githubusercontent.com/siddarta-weis/code-nautilus_pt-BR/master/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/siddarta-weis/pycharm_nautilus/master/install.sh | bash
 ```
 
 ## Desinstalar extenção
